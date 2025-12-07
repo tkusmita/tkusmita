@@ -50,7 +50,7 @@ Currently, I’m sharpening my skills in **MERN stack** development while also e
  📫 Connect With Me  
 
 - 📧 Email: [khusitimsina15@gmail.com](mailto:khusitimsina15@gmail.com)  
-- 🌐 Portfolio: https://v0-full-stack-port-4ezy.vercel.app/ 
+- 🌐 Portfolio: https://portfolio-r4ur.vercel.app/
 - 💼 LinkedIn: [linkedin.com/in/kusmita-timsina-21905230b](https://www.linkedin.com/in/kusmita-timsina-21905230b/)  
 
 
